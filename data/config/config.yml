@@ -1,0 +1,8 @@
+samples: samples.tsv
+max_filler_len: 10
+max_microhomology_len: 5
+min_local_identity: 0.9
+min_reads_num: 3
+cluster_dist: 5
+bwa:
+  threads: 8
